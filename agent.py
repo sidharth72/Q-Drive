@@ -4,7 +4,6 @@ import numpy as np
 from collections import deque
 from model import QNet, QTrainer
 from game import CarGame
-from helper import plot
 
 
 MAX_MEMORY = 100000
@@ -50,7 +49,7 @@ class Agent:
         
     def train_short(self, state, action, reward, next_state, done):
         self.trainer.train_step(state, action, reward, next_state, done)
-        
+
     def get_action(self, state):
         if random.random() < self.epsilon:
             # Exploration : Take random moves for exploring the environment
