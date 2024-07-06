@@ -35,7 +35,17 @@ Clone the repository:
 ```bash
 git clone https://github.com/sidharth72/Q-Drive.git
 cd Q-Drive
+```
+
+Install the Requirements
+
+```bash
 pip install -r requirements.txt
+```
+
+Run the agent
+
+```bash
 python agent.py
 ```
 
