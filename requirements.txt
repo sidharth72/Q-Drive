@@ -4,7 +4,7 @@
 torch>=1.9.0
 
 # Numerical Computing
-numpy>=1.21.0
+numpy>=2.0
 
 # Game Development
 pygame>=2.0.1
