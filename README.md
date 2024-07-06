@@ -20,17 +20,31 @@ Deep Q-Learning has been successfully applied to various applications, including
 
 ## Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.x
 - PyTorch
-- PyGame
-- OpenCV
+- OpenCV-Python
+- NumPy
+- Pygame
 
-### Installation
+## Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/car-game-dqn.git
-cd car-game-dqn
+git clone https://github.com/sidharth72/Q-Drive.git
+cd Q-Drive
+pip install -r requirements.txt
+python agent.py
+```
+
+### License
+
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
+# Contributions
+
+Contributions are welcome! Please feel free to submit a Pull Request or open an issue to discuss improvements and new features.
+
+
