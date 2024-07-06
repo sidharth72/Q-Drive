@@ -1,5 +1,4 @@
-# Q-Drive - Deep Q-Learning for a Car Game
-
+# Q-Drive - Self Play Car Game Using Deep Q Learning
 ## Overview
 
 Reinforcement Learning (RL) stands at the forefront of artificial intelligence, enabling the creation of intelligent agents capable of learning through interaction with their environment. Among the various RL techniques, Deep Q-Learning (DQN) has gained significant traction. In DQN, a neural network is trained to make decisions by optimizing a Q-function, which is iteratively improved based on the states and rewards received from the environment.
