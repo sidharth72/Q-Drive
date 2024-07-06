@@ -11,6 +11,7 @@ Deep Q-Learning has been successfully applied to various applications, including
 - Develop a DQN agent capable of understanding and playing a car game.
 - Experiment with different neural network architectures and hyperparameters.
 - Analyze the learning process and performance of the agent.
+- Let the agent figure out which one to collect and which one to avoid without giving an instructions.
 
 ## Features
 
@@ -23,8 +24,9 @@ Deep Q-Learning has been successfully applied to various applications, including
 ### Prerequisites
 
 - Python 3.x
-- TensorFlow or PyTorch
-- OpenAI Gym
+- PyTorch
+- PyGame
+- OpenCV
 
 ### Installation
 
