@@ -1,6 +1,8 @@
 # Q-Drive - Self Play Car Game Using Deep Q Learning
 ## Overview
 
+https://github.com/sidharth72/Q-Drive/assets/74226199/cef6c6df-a60f-47b7-a210-a05723911387
+
 Reinforcement Learning (RL) stands at the forefront of artificial intelligence, enabling the creation of intelligent agents capable of learning through interaction with their environment. Among the various RL techniques, Deep Q-Learning (DQN) has gained significant traction. In DQN, a neural network is trained to make decisions by optimizing a Q-function, which is iteratively improved based on the states and rewards received from the environment.
 
 Deep Q-Learning has been successfully applied to various applications, including mastering popular Atari games. Inspired by these advancements, this project aims to experiment with a car game, exploring whether a DQN agent can autonomously learn to play the game.
